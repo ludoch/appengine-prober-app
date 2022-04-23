@@ -15,7 +15,7 @@
     </prerequisites>
 
     <properties>
-        <appengine.runtime.version>2.0.5-SNAPSHOT</appengine.runtime.version>
+        <appengine.runtime.version>2.0.4</appengine.runtime.version>
         <appengine.runtime.location>target/${project.artifactId}-${project.version}</appengine.runtime.location>
         <INSTANCE_CONNECTION_NAME>ludo-in-in:us-central1:mysql-instance</INSTANCE_CONNECTION_NAME>
         <DATABASE_NAME>XXXXXmysql-database</DATABASE_NAME>
